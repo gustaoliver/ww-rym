@@ -1,6 +1,5 @@
 # Projeto front-end Warrior's Wealth - RYM
 
-Breve descrição do projeto, incluindo seu propósito e principais recursos.
 
 ## Tabela de Conteúdo
 
